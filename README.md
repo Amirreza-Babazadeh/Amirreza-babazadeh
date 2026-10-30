@@ -29,16 +29,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 💻 Passionate **Front-End Developer** who loves turning design ideas into fast, responsive, and pixel-perfect websites.
-- 🎯 Currently building real-world web projects with **HTML5, CSS3, JavaScript (ES6+)**, and modern UI frameworks.
-- 📱 Obsessed with **responsive web design, web accessibility (a11y)**, and clean code architecture.
-- ⚡ In my free time, I explore new front-end libraries, UI/UX trends, and open-source projects.
-- 💬 Ask me about **Responsive Web Design, Flexbox, CSS Grid, and Vanilla JS**.
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
